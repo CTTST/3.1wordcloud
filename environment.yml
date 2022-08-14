@@ -1,7 +1,7 @@
 dependencies:
-  - python=2.7
+  - python=3.6
   - pip:
-    - urllib
-    - urllib2
-    - sys
-    - ssl
+    - requests_html
+    - ipykernel
+    - pandas
+    - jupyter
